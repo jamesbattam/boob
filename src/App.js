@@ -1,9 +1,9 @@
 import React, { useLayoutEffect, useEffect, useRef } from 'react';
 import gsap from 'gsap-trial';
 import { ScrollTrigger } from 'gsap-trial/ScrollTrigger';
-import { ScrollSmoother } from 'gsap-trial/ScrollSmoother';
+// import { ScrollSmoother } from 'gsap-trial/ScrollSmoother';
 
-gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
+gsap.registerPlugin(ScrollTrigger);
 
 
 function HeroSection() {
