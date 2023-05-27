@@ -10,7 +10,105 @@ html, body {
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+  box-sizing: inherit@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;@media (max-width: 800px) {
+  html, body {
+    font-size: 5px;
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;;
 }
 
 html {
